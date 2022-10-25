@@ -35,7 +35,7 @@
 
                         <li class="{{ request()->is('user*') ? 'active' : ''}}">
                             <a href="#" class="text-white">
-                                <i class="fas fa-boxes"></i>
+                                <i class="fa-solid fa-person-sign"></i>
                                 <span>User</span>
                             </a>
                         </li>
